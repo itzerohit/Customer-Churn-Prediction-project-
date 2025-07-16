@@ -72,24 +72,13 @@ The dataset contains various customer-related features like:
 ## 🚀 Streamlit Web App
 
 You can access the live demo here:  
-👉 [Click to Open the App](https://your-streamlit-app-url) *(Replace with your deployed link)*
+👉 [Click to Open the App](https://customerchurnproject-gkieltiqubmimnxnoaw44w.streamlit.app/) *(Replace with your deployed link)*
 
 ### 🔍 Features:
 - Interactive form to input customer details
 - Predict churn instantly
 - Clear output: “Yes” or “No” for churn
 - Multiple models available
-
----
-
-## 📷 Screenshots
-
-![App Screenshot 1](assets/app_screenshot1.png)  
-![App Screenshot 2](assets/app_screenshot2.png)
-
-*(Optional: Add screenshots to an `assets/` folder)*
-
----
 
 ## 🧾 How to Run Locally
 
