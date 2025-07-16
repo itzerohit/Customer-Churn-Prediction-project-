@@ -60,6 +60,7 @@ if predictbutton:
     # Interpret the prediction
     predicted = "Yes" if prediction == 1 else "No"
 
+     st.balloons()
     st.success(f"Predicted Churn: **{predicted}**") # Use st.success for better visibility
 
 else:
